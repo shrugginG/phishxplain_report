@@ -10,7 +10,7 @@ drawings:
 title: "解释，而不仅仅是警告！"
 ---
 
-<img src="./img/arxiv-logo.svg" alt="logo" width="80" height="80" style="position: absolute; top: 20px; left: 20px; z-index: 10;">
+<img src="./img/arxiv-logo.svg" alt="logo" width="80" height="80" style="position: absolute; top: 20px; right: 20px; z-index: 10;">
 
 
 ## **"Explain, Don’t Just Warn!" - A Real-Time Framework for Generating Phishing Warnings with Contextual Cues**
